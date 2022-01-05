@@ -1,7 +1,6 @@
+<h2>Hi, i'm Matheus (A.K.A dr3amsavior)</h2>
 
-![](https://komarev.com/ghpvc/?username=matheusoliveira3631&color=006bed)
-
-<h3> ⭐ &nbsp;Sobre mim </h3>
+<h3> 👉 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://ufla.br">Universidade Federal de Lavras</a>.
@@ -44,5 +43,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Matheus Oliveira](https://img.shields.io/badge/-oliveiramatheus13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiramatheus13/)](https://www.linkedin.com/in/oliveiramatheus13/)
+[![Spotify](https://img.shields.io/badge/-Spotify-333333?style=flat-square&logo=spotify&link=https://open.spotify.com/user/matheusoliveira3631)](https://open.spotify.com/user/matheusoliveira3631)
 [![Gmail Badge](https://img.shields.io/badge/-matheusoliveira3631@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusoliveira3631@gmail.com)](mailto:matheusoliveira3631@gmail.com)
 [![GitHub Matheus Oliveira]( https://img.shields.io/github/followers/matheusoliveira3631?label=follow&style=social)](https://github.com/matheusoliveira3631)
