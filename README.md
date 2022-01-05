@@ -43,6 +43,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Matheus Oliveira](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiramatheus13/)](https://www.linkedin.com/in/oliveiramatheus13/)
-[![Gmail Badge](https://img.shields.io/badge/-matheusoliveira3631@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusoliveira3631@gmail.com)](mailto:matheusoliveira3631@gmail.com)
+[![Linkedin: Matheus Oliveira](https://img.shields.io/badge/-Matheus Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiramatheus13/)](https://www.linkedin.com/in/oliveiramatheus13/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusoliveira3631@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusoliveira3631@gmail.com)](mailto:matheusoliveira3631@gmail.com)
 [![GitHub Matheus Oliveira]( https://img.shields.io/github/followers/matheusoliveira3631?label=follow&style=social)](https://github.com/matheusoliveira3631)
