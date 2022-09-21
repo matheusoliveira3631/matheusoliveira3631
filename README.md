@@ -4,8 +4,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://ufla.br">Universidade Federal de Lavras</a>.
-- 💼 &nbsp; Membro da <a href="https://compjunior.com.br">Comp Júnior</a>
-- 🌱 &nbsp; Aprendendo mais sobre Javascript e Ruby on Rails.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
