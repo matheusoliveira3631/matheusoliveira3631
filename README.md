@@ -1,52 +1,22 @@
-<h2>Hi, i'm Matheus (A.K.A dr3amsavior)</h2>
+# Matheus Oliveira
 
-<h3> 👉 &nbsp;Sobre mim </h3>
+**Full Stack Developer** · Node.js, TypeScript · Brazil, remote
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Sistemas de Informação na <a href="https://ufla.br">Universidade Federal de Lavras</a>.
+I build backend-focused web and mobile applications for business environments: REST APIs, system integrations, operational dashboards and process automation. I work as a Full Stack Developer (Level II) at VFlows, where I started as an intern in 2023, and I'm finishing a B.Sc. in Information Systems at UFLA.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## Stack
 
-**Aplicações e Dados**
+- **Backend:** Node.js (JavaScript and TypeScript), Express, REST APIs, SQL Server, MySQL
+- **Frontend and mobile:** React Native, Vue.js, HTML, CSS (Tailwind CSS)
+- **Infrastructure and delivery:** Docker, AWS, CI/CD, Git
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-  ![Vue](https://img.shields.io/badge/Vue.JS-333333?style=flat&logo=vuedotjs)
+## Selected projects
 
+- [**CL4P-TP**](https://github.com/matheusoliveira3631/CL4P-TP): an offline-first personal server. A modular Node.js and Express API with an embedded MQTT broker, an automation executor, an intent parser and media streaming.
+- [**CL4P-TP-Printer**](https://github.com/matheusoliveira3631/CL4P-TP-Printer): an Android app in Kotlin that subscribes to MQTT topics and prints orders on a SUNMI POS terminal, reporting job status back to the server.
 
-**DevOps**
+Earlier work: [StarFile](https://github.com/matheusoliveira3631/starfile), a file hosting site built with Flask and DynamoDB on AWS EC2.
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+## Contact
 
-**Ferramentas de Desenvolvimento**
-
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-
-<br/>
-<a href="https://github.com/matheusoliveira3631">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusoliveira3631&theme=dracula&show_icons=true" />
-</a>
-
-<h2> Portfólio </h2>
-
-[StarFile](https://www.starfile.me) : Site para armazenamento em nuvem de arquivos desenvolvido inteiramente por mim, feito em python (flask + AWS dynamoDb), hospedado em um servidor aws (EC2).
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Matheus Oliveira](https://img.shields.io/badge/-oliveiramatheus13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiramatheus13/)](https://www.linkedin.com/in/oliveiramatheus13/)
-[![Spotify](https://img.shields.io/badge/-Spotify-333333?style=flat-square&logo=spotify&link=https://open.spotify.com/user/matheusoliveira3631)](https://open.spotify.com/user/matheusoliveira3631)
-[![Gmail Badge](https://img.shields.io/badge/-matheusoliveira3631@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusoliveira3631@gmail.com)](mailto:matheusoliveira3631@gmail.com)
-[![GitHub Matheus Oliveira]( https://img.shields.io/github/followers/matheusoliveira3631?label=follow&style=social)](https://github.com/matheusoliveira3631)
+[LinkedIn](https://www.linkedin.com/in/oliveiramatheus13/) · matheusoliveira3631@gmail.com
